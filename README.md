@@ -9,7 +9,7 @@
 <li>yup</li>
 <br>
 
-<p>Link para acessar o projeto pelo Vercel: ADICIONAR </p>
+<p>Link para acessar o projeto pelo Vercel: https://dev-in-house-p2.vercel.app/ </p>
 
 <h2> Andamento do Projeto </h2>
 <p>Iniciado em: 24/01/2022</p>
